@@ -5,10 +5,13 @@ First Of All This Game Is UnderDevelopment and will require some time to be uplo
 Turning Code into Fun - A Game Development repository where ideas becomes playable experiences.
 
 Code2Play is an open-world, game-based learning platform designed to make programming interactive, engaging, and fun.
+
 Inspired by games like GTA V and Minecraft, this project allows users to learn programming languages by completing real coding missions inside a virtual world.
+
 Instead of traditional tutorials, users learn by playing, exploring, and solving problems.
 
 🧩 Problem Statement
+
 Learning programming is often:
 Boring and text-heavy
 Confusing for beginners
@@ -46,6 +49,7 @@ XP points and levels
 Badges and achievements
 Unlockable areas
 Leaderboard system
+
 🛠️ Tech Stack
 Game Engine: Unity / Unreal Engine / Three.js
 Frontend: HTML, CSS, JavaScript
@@ -53,6 +57,8 @@ Backend: Node.js / Firebase
 Authentication: Firebase Auth
 Database: Firestore / MongoDB
 Code Execution: Secure sandboxed compiler APIs
+
+
 🚀 How It Solves the Problem
 Challenge
 Solution
@@ -66,20 +72,32 @@ Lack of practice
 Real coding challenges
 Dropouts
 Fun & immersive gameplay
+
 📈 Future Scope
 Multiplayer coding battles
 AI-based personalized difficulty
 More programming languages
 Mobile and VR support
 Integration with EdTech platforms
+
 🧪 Project Status
+
 🚧 Currently under development
+
 This project is a hackathon prototype, and features may evolve.
+
 🤝 Team
+
 👩‍💻 Bhumika Yadav – Developer & Ideation
+
 👥 Naithan Kant Jena – Game Design & Development
+
 👩‍💻 Srishti Bhatt - Creative Designer of essentials of the Game
+
 ⭐ One-Line Pitch
+
 An open-world game where players don’t just play — they learn programming by completing real coding missions.
+
 📜 License
+
 This project is licensed under the MIT License.
