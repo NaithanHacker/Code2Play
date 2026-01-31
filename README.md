@@ -1,4 +1,7 @@
 # Code2Play
+
+First Of All This Game Is UnderDevelopment and will require some time to be uploaded
+
 Turning Code into Fun - A Game Development repository where ideas becomes playable experiences.
 
 Code2Play is an open-world, game-based learning platform designed to make programming interactive, engaging, and fun.
