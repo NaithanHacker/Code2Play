@@ -78,6 +78,7 @@ This project is a hackathon prototype, and features may evolve.
 🤝 Team
 👩‍💻 Bhumika Yadav – Developer & Ideation
 👥 Naithan Kant Jena – Game Design & Development
+👩‍💻 Srishti Bhatt - Creative Designer of essentials of the Game
 ⭐ One-Line Pitch
 An open-world game where players don’t just play — they learn programming by completing real coding missions.
 📜 License
